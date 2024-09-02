@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-image: url(zenitsu-agatsuma-ai-3840x2160-12533.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#clock-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+    
+}
+
+#clock{
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: hsl(57, 30%, 29%);
+     backdrop-filter : blur(5px);
+     background-color: hsl(0, 0%, 100% , 0.5);
+     width: 100%;
+
+}
+
+.footer{
+    padding-left: 70%;
+    text-align: left;
+    padding-top: 22cqmax;
+    
+
+    
+}
+
+.para{
+    color: beige;
+}
+
+#heading{
+    text-align: center;
+    color:  beige;
+}
